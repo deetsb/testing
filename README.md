@@ -61,7 +61,7 @@ This project is licensed under the MIT license.
 
 ## Links
 - [GitHub Repo](https://github.com/deetsb/testing)
-- [Walkthrough Video]()
+- [Walkthrough Video](https://drive.google.com/file/d/17Skvlj0HktcGa3ag_oasPX7UyO6CTqTL/view?usp=sharing)
 
 ## Questions
 Should you have questions, please reach me via:
